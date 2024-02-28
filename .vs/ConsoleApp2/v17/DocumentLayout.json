@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Decagon\\ConsoleApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFCF058-A0C9-43CB-AB90-3B697D10307A}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\hp\\desktop\\decagon\\consoleapp2\\consoleapp2\\filer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFCF058-A0C9-43CB-AB90-3B697D10307A}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\filer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFCF058-A0C9-43CB-AB90-3B697D10307A}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\hp\\desktop\\decagon\\consoleapp2\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFCF058-A0C9-43CB-AB90-3B697D10307A}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFCF058-A0C9-43CB-AB90-3B697D10307A}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\hp\\desktop\\decagon\\consoleapp2\\consoleapp2\\quadeq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFCF058-A0C9-43CB-AB90-3B697D10307A}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\quadeq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFCF058-A0C9-43CB-AB90-3B697D10307A}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\hp\\desktop\\decagon\\consoleapp2\\consoleapp2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFCF058-A0C9-43CB-AB90-3B697D10307A}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFCF058-A0C9-43CB-AB90-3B697D10307A}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\hp\\desktop\\decagon\\consoleapp2\\consoleapp2\\dict.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFCF058-A0C9-43CB-AB90-3B697D10307A}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\dict.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFCF058-A0C9-43CB-AB90-3B697D10307A}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\hp\\desktop\\decagon\\consoleapp2\\consoleapp2\\fibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFCF058-A0C9-43CB-AB90-3B697D10307A}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\fibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFCF058-A0C9-43CB-AB90-3B697D10307A}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\hp\\desktop\\decagon\\consoleapp2\\consoleapp2\\calc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFCF058-A0C9-43CB-AB90-3B697D10307A}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\calc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFCF058-A0C9-43CB-AB90-3B697D10307A}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\hp\\desktop\\decagon\\consoleapp2\\consoleapp2\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFCF058-A0C9-43CB-AB90-3B697D10307A}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFCF058-A0C9-43CB-AB90-3B697D10307A}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\hp\\desktop\\decagon\\consoleapp2\\consoleapp2\\delegating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFCF058-A0C9-43CB-AB90-3B697D10307A}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\delegating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFCF058-A0C9-43CB-AB90-3B697D10307A}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\hp\\desktop\\decagon\\consoleapp2\\consoleapp2\\customgenericlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFCF058-A0C9-43CB-AB90-3B697D10307A}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\customgenericlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFCF058-A0C9-43CB-AB90-3B697D10307A}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\hp\\desktop\\decagon\\consoleapp2\\consoleapp2\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFCF058-A0C9-43CB-AB90-3B697D10307A}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFCF058-A0C9-43CB-AB90-3B697D10307A}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\hp\\desktop\\decagon\\consoleapp2\\consoleapp2\\ada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFCF058-A0C9-43CB-AB90-3B697D10307A}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\ada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFCF058-A0C9-43CB-AB90-3B697D10307A}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\hp\\desktop\\decagon\\consoleapp2\\consoleapp2\\grader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFCF058-A0C9-43CB-AB90-3B697D10307A}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\grader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFCF058-A0C9-43CB-AB90-3B697D10307A}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\hp\\desktop\\decagon\\consoleapp2\\consoleapp2\\loops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFCF058-A0C9-43CB-AB90-3B697D10307A}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\loops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFCF058-A0C9-43CB-AB90-3B697D10307A}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\hp\\desktop\\decagon\\consoleapp2\\consoleapp2\\matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFCF058-A0C9-43CB-AB90-3B697D10307A}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Filer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ConsoleApp2\\ConsoleApp2\\Filer.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Filer.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ConsoleApp2\\ConsoleApp2\\Filer.cs",
+              "RelativeToolTip": "ConsoleApp2\\Filer.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAuwI4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T21:09:16.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Calc.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ConsoleApp2\\ConsoleApp2\\Calc.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Calc.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ConsoleApp2\\ConsoleApp2\\Calc.cs",
+              "RelativeToolTip": "ConsoleApp2\\Calc.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAACwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T08:42:50.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Fibonacci.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ConsoleApp2\\ConsoleApp2\\Fibonacci.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Fibonacci.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ConsoleApp2\\ConsoleApp2\\Fibonacci.cs",
+              "RelativeToolTip": "ConsoleApp2\\Fibonacci.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T10:55:50.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ConsoleApp2\\ConsoleApp2\\Bank.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Bank.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ConsoleApp2\\ConsoleApp2\\Bank.cs",
+              "RelativeToolTip": "ConsoleApp2\\Bank.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAYwF4AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T10:56:04.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "ConsoleApp2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T09:48:43.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuadEq.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ConsoleApp2\\ConsoleApp2\\QuadEq.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\QuadEq.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ConsoleApp2\\ConsoleApp2\\QuadEq.cs",
+              "RelativeToolTip": "ConsoleApp2\\QuadEq.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T19:56:40.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dict.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ConsoleApp2\\ConsoleApp2\\Dict.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Dict.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ConsoleApp2\\ConsoleApp2\\Dict.cs",
+              "RelativeToolTip": "ConsoleApp2\\Dict.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwBYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T10:09:23.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ConsoleApp2\\ConsoleApp2\\Person.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Person.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ConsoleApp2\\ConsoleApp2\\Person.cs",
+              "RelativeToolTip": "ConsoleApp2\\Person.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T14:44:59.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delegating.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ConsoleApp2\\ConsoleApp2\\Delegating.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Delegating.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ConsoleApp2\\ConsoleApp2\\Delegating.cs",
+              "RelativeToolTip": "ConsoleApp2\\Delegating.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T08:45:58.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomGenericList.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ConsoleApp2\\ConsoleApp2\\CustomGenericList.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\CustomGenericList.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ConsoleApp2\\ConsoleApp2\\CustomGenericList.cs",
+              "RelativeToolTip": "ConsoleApp2\\CustomGenericList.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T15:24:32.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Ada.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ConsoleApp2\\ConsoleApp2\\Ada.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Ada.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ConsoleApp2\\ConsoleApp2\\Ada.cs",
+              "RelativeToolTip": "ConsoleApp2\\Ada.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T20:57:48.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Grader.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ConsoleApp2\\ConsoleApp2\\Grader.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Grader.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ConsoleApp2\\ConsoleApp2\\Grader.cs",
+              "RelativeToolTip": "ConsoleApp2\\Grader.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T14:50:05.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ConsoleApp2\\ConsoleApp2\\Transaction.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Transaction.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ConsoleApp2\\ConsoleApp2\\Transaction.cs",
+              "RelativeToolTip": "ConsoleApp2\\Transaction.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T11:31:28.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Loops.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ConsoleApp2\\ConsoleApp2\\Loops.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Loops.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ConsoleApp2\\ConsoleApp2\\Loops.cs",
+              "RelativeToolTip": "ConsoleApp2\\Loops.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T10:28:27.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Matrix.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ConsoleApp2\\ConsoleApp2\\Matrix.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Matrix.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ConsoleApp2\\ConsoleApp2\\Matrix.cs",
+              "RelativeToolTip": "ConsoleApp2\\Matrix.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T08:58:56.279Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
